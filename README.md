@@ -1,4 +1,4 @@
-# Xamarin.Forms code samples
+# Xamarin.Forms code sample
 
 The samples in this repository demonstrate how to use different aspects of Xamarin.Forms to build cross-platform apps for iOS, Android, and the Universal Windows Platform (UWP). Please visit Microsoft [code sample browser](https://docs.microsoft.com/samples/browse/?term=Xamarin.Forms) to download individual samples.
 
